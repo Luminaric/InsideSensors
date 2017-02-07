@@ -1,6 +1,6 @@
 /*
 This sketch uses the DHT22 to get Temprature and Humidity
-readings. Ambient light conditions are also sampled as well as Vcc.
+readings. 
 It then uses the ESP8266 to transmit those readings
 to the MQTT server. A reading is performed every 10 minuts using Timer. 
 
